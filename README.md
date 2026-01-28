@@ -38,7 +38,7 @@
 
 ## 📫 Connect with Me
 
-- 💼 LinkedIn: [[your link]](https://www.linkedin.com/in/pritha-mukherjee-1a585b253/)
+- 💼 LinkedIn: https://www.linkedin.com/in/pritha-mukherjee-1a585b253/
 - 📧 Email: prithamukherjee.bankura@gmail.com
 ---
 
