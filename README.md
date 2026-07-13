@@ -23,8 +23,7 @@
 # 💡 About Me
 
 🎯 Aspiring :  Full-stack Developer  
-💻 Passionate about building things with code  
-🌱 Currently learning:  AWS Kubernetes cluster (AKS)                                                                                                                                                               🚀 Interested in: Web dev, AI, etc.
+💻 Passionate about building things with code                                                      🚀 Interested in: Web dev, AI, etc.
 
 ---
 
